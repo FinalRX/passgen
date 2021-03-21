@@ -1,1 +1,2 @@
-# passgen
+# Password Generator
+by FinalHD

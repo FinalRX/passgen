@@ -1,6 +1,6 @@
 # Password Generator
 
-## Installation
+### Installation
 
 move all fiels in to the System32 Folder
 ![redme](redme.png)

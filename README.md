@@ -6,7 +6,7 @@
 
 ![](images/you-picture.png)
 ```html
-    <p>pass</p>
+    $ pass
 ```
 [Back To The Top](#read-me-template)
 

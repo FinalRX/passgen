@@ -1,14 +1,16 @@
 # Password Generator
----
 
 #### Installation
 
-
+move all fiels in to the System32 Folder
 ![Printer Hookup Diagram](redme.png)
+
+and dan open cmd
+#### Befehle
+---
 ```html
     $ pass
 ```
-
 ---
 
 ## Author Info

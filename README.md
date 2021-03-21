@@ -3,7 +3,7 @@
 #### Installation
 
 move all fiels in to the System32 Folder
-![Printer Hookup Diagram](redme.png)
+![redme](redme.png)
 
 open cmd
 #### Befehle
@@ -11,6 +11,7 @@ open cmd
 ```html
     $ pass
 ```
+![Gui](gui.png)
 ---
 
 ## Author Info

@@ -14,7 +14,6 @@ open cmd
     $ pass
 ```
 ![Gui](gui.png)
----
 
 ## Author Info
 

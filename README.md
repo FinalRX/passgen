@@ -3,7 +3,7 @@
 ### Installation
 
 move all fiels in to the System32 Folder
-![redme](redme.png)
+![redme](images/redme.png)
 
 open cmd
 
@@ -13,7 +13,7 @@ open cmd
 ```html
     $ pass
 ```
-![Gui](gui.png)
+![Gui](images/gui.png)
 
 ## Author Info
 

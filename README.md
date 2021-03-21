@@ -4,7 +4,7 @@
 #### Installation
 
 
-![](redme.png)
+![Printer Hookup Diagram](redme.png)
 ```html
     $ pass
 ```

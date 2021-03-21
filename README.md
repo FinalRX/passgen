@@ -5,7 +5,7 @@
 move all fiels in to the System32 Folder
 ![Printer Hookup Diagram](redme.png)
 
-and dan open cmd
+open cmd
 #### Befehle
 ---
 ```html

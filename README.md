@@ -2,10 +2,10 @@
 
 ### Installation
 
-move all fiels in to the System32 Folder
+Move all files into the System32 folder
 ![redme](images/redme.png)
 
-open cmd
+open CMD
 
 
 ## Commands
